@@ -23,8 +23,8 @@ const arr4x4 = [[23, 56, 9, 0], [8, 24, 50, 5], [9, 10, 40, 7], [9, 48, 15, 2]]
 let arr =[]
 for (let i = 0; i < arr4x4.length; i++) {//looping
     let total = arr4x4[i].reduce(function(a,b)// definiu linha com formato 0
-    return a + b
-    })
+}return a + b
+    }
     arr[i]= total
   }
   console.log(Math.max(...arr)
