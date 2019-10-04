@@ -12,3 +12,11 @@ const especies = {
     saberVoar: false,
     {
 
+
+        // pokemon["action"] = function() {
+        //     let frase = ["Fight", "Bag", "Run"]
+        //     let rand = Math.floor(Math.random() * frase.length)
+        //     return frase[rand]
+        //   }
+          
+        //   pokemon.action()
